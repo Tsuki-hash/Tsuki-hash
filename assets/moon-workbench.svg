@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Tsuki — Clarity, by design.</title>
-  <desc id="desc">A lavender moon above two small desktop windows, representing Windows utilities made with care.</desc>
+  <desc id="desc">A crescent moon above a desktop window with a shield, representing evidence-based cleanup with Remova.</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#DADEFA" stroke-opacity=".05"/></pattern>
     <mask id="crescent"><rect width="1200" height="360" fill="white"/><circle cx="1031" cy="67" r="76" fill="black"/></mask>
@@ -19,7 +19,7 @@
   <circle cx="990" cy="100" r="76" fill="#F2D6B1" mask="url(#crescent)"/>
   <circle cx="874" cy="59" r="3" fill="#DADEFA"/>
   <path d="M1105 152v12m-6-6h12M794 109v8m-4-4h8" stroke="#A9D4CB" stroke-width="1.5"/>
-  <g transform="translate(780 144)">
+  <g transform="translate(840 160)">
     <rect width="222" height="146" rx="12" fill="#30385F" stroke="#6E7AA5"/>
     <path d="M0 30H222" stroke="#6E7AA5"/>
     <circle cx="16" cy="15" r="3" fill="#F2D6B1"/><circle cx="28" cy="15" r="3" fill="#A9D4CB"/><circle cx="40" cy="15" r="3" fill="#9CA9D7"/>
@@ -27,13 +27,5 @@
     <path d="m46 80 7 7 14-15" fill="none" stroke="#A9D4CB" stroke-width="2"/>
     <path d="M97 67h86M97 82h64M97 97h73" stroke="#8793BE" stroke-width="3" stroke-linecap="round"/>
     <text x="22" y="131" fill="#DADEFA" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1.4">EXPLAIN. REMOVE. RESTORE.</text>
-  </g>
-  <g transform="translate(948 208)">
-    <rect width="192" height="118" rx="12" fill="#394367" stroke="#8B98C0"/>
-    <path d="M0 28H192" stroke="#8B98C0"/>
-    <circle cx="16" cy="14" r="3" fill="#A9D4CB"/>
-    <text x="29" y="18" fill="#DADEFA" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1">USAGE MONITOR</text>
-    <path d="M22 93H172" stroke="#8B98C0" stroke-opacity=".5"/>
-    <path d="M30 91V74m23 17V65m23 26V79m23 12V51m23 40V59m23 32V42m23 49V54" stroke="#A9D4CB" stroke-width="11"/>
   </g>
 </svg>
