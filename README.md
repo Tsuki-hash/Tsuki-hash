@@ -5,8 +5,7 @@
 <h3 align="center">Complexity, made clear.</h3>
 
 <p align="center">
-  I'm <strong>Tsuki</strong>. I build and maintain desktop software for Windows.<br />
-  Clear information, considered interfaces, and care in the details.
+  Building <a href="https://github.com/Tsuki-hash/Remova">Remova</a> — an evidence-driven uninstaller for Windows.
 </p>
 
 <p align="center">
