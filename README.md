@@ -29,6 +29,13 @@
   </tr>
 </table>
 
+### Open source
+
+Recent contributions merged upstream:
+
+- [cc-switch](https://github.com/farion1231/cc-switch/pull/8398) — stopped a false "update available" prompt for locally built development versions.
+- [tokscale](https://github.com/junhoyeo/tokscale/pull/1432) — split Hermes sessions that span midnight by their logged call timestamps.
+
 ### Approach
 
 - **Clarity** — Give decisions context. Make every cleanup easy to understand.
